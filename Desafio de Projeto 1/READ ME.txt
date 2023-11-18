@@ -1,0 +1,42 @@
+#Case 
+O seguinte Dataset contém dados de vendas e lucros da Empresa Delta* , que atua no ramo de vestuário*, nos anos de 2013 e 2014. A Empresa Delta comercializa as seguintes marcas (6):
+• Paseo;
+• VTT;
+• Velo;
+• Amarilla;
+• Montana;
+• Carretera;
+
+atua nos seguintes países (5):
+• Alemanha;
+• Canadá;
+• Estados Unidos;
+• França;
+• México;
+
+E fornece produtos para: 
+• Governo;
+• Mercado intermediário;
+• Empresas parceiras;
+• Pequenas empresas;
+• Empresas (no geral);
+
+No primeiro relatório podemos ver como estão as vendas da Companhia Delta por produto e segmento. Observamos que, no geral, o produto mais caro (VTT), não é aquele que representa o maior faturamento. Pelo contrário, o item mais barato do mix de produtos (Paseo) é aquele que exprime a maior parte da Receita, Assim, podemos dizer que Paseo é o carro chefe da Empresa Delta. Vemos também que o segmento mais rentável para esta companhia é a Governamental. Logo podemos deduzir que uma das razões para Paseo ser a mais vendida é que seu principal consumidor são orgãos públicos;
+	
+No segundo relatório vemos a distribuição das vendas e lucros ao longo do tempo por país. Há um "equilibrio" em termos de faturamento (com exceção de México), porém o mesmo não acontece com o lucro (onde os países "menores" se destacam).  Se consideramos a extensão territórial dos EUA, Canadá e México em relação à Alemanha e França podemos inferir que o mercado nestes países não estão atingindo seu potencial. Assim, a equipe de vendas de Delta nestes países deverão elaborar um plano de ação para melhorar este números;
+
+O terceiro relatório é uma "síntese" dos dois primeiros. Nele podemos ratificar, de forma mais clara, o que vimos: 
+• O maior consumidor dos produdos Delta é o governo (65%), seguido das pequenas empresas (24%);
+• O principal consumidor do produto Paseo são órgãos governamentais (14M);
+• Os países que mais vendem não são aqueles que apresentam maior lucro;
+
+Diante destas informações o time comercial deverá responder algumas perguntas:
+• Por que há uma disparidade tão grande de quantidades vendidas do produto Paseo e os demais produtos?
+• Por que os lucros não estão acompanhando proporcionalmente o faturamento nos diversos países? (Rever as políticas comerciais aplicadas em cada uma) 
+• Quais táticas mercadológicas podem ser aplicadas para aumentar as vendas nos EUA, Canadá e México?
+• A situação atual da empresa é propícia para expandir o mercado para outros países?
+
+Para mais detalhes veja o relatório em : https://app.powerbi.com/view?r=eyJrIjoiNGI5MzQ0YzMtYTA1Ni00NzU4LTg0ZWYtMjFhNzgwZjgwMDJiIiwidCI6ImVkNzgyY2ZkLTczNzEtNGI3Yy05OTcxLTQ4YjQyZTI2ZDAyMiJ9
+
+*Nomes Fictícios
+Fonte do dataset: https://www.kaggle.com/

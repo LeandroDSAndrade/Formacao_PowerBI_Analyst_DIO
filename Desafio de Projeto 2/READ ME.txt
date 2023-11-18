@@ -1,0 +1,14 @@
+#Case 
+
+Visando gerar insights mais fluidos para o tomador de decisão da empresa Delta (ver publicação anteriormente) o time de inteligência proporcionou maior interatividade entre o usuário e o relatório. Para isso, o mesmo foi dividido em duas telas (uma a menos que a anterior), com gráficos mais acertivos.
+
+Na primeira página podemos visualizar informações acerca do comportamento das vendas/faturamento da empresa Delta entre os anos de 2013 e 2014, enquanto na segunda tela podemos obter detalhes acerca do lucro obtido pela entidade no mesmo período.
+
+Como recurso de navegação foram adicionados os seguintes itens: 
+• Alternância entre formas de visualização (Vendas por segmento - Gráfico de pizza ou Gráfico de Barras / Vendas por país - Gráfico de Mapa ou Gráfico de árvore (Treemap)
+• Botão de navegação entre as páginas 1 e 2
+• Botão que limpa os filtros de data
+
+
+Para mais detalhes veja o relatório em : https://app.powerbi.com/view?r=eyJrIjoiOTAzMGY4NjMtMTYyYS00MzcyLWEyZmMtMDI0YzQzMGZhY2NmIiwidCI6ImVkNzgyY2ZkLTczNzEtNGI3Yy05OTcxLTQ4YjQyZTI2ZDAyMiJ9
+
